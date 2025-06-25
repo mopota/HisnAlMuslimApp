@@ -10,7 +10,7 @@
 ---
 
 ## 🔗 التحميل:
-- 📥 حمل النسخة الأخيرة من قسم [Releases](https://github.com/YourUsername/HisnAlMuslimApp/releases)
+- 📥 حمل النسخة الأخيرة من قسم [Releases]([https://github.com/YourUsername/HisnAlMuslimApp/releases)](https://github.com/mopota/HisnAlMuslimApp/releases/)
 
 ---
 
