@@ -1,0 +1,12 @@
+{
+  "version": "1.0.0",
+  "releaseNotes": "الإصدار الأول من التطبيق\n- تحسينات في الأداء\n- إصلاح بعض الأخطاء\n- إضافة ميزة التحديث التلقائي",
+  "minimumRequiredVersion": "1.0.0",
+  "releaseDate": "2025-08-07",
+  "features": [
+    "إصلاح مشاكل الأداء",
+    "تحسين تجربة المستخدم",
+    "إضافة ميزات جديدة"
+  ],
+  "downloadUrl": "https://github.com/mopota/HisnAlMuslimApp/releases/download/version/hisn.apk"
+}
