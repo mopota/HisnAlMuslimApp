@@ -1,12 +1,11 @@
 {
-  "version": "1.0.0",
-  "releaseNotes": "الإصدار الثاني من التطبيق\n- تحسينات في الأداء\n- إصلاح بعض الأخطاء\n- إضافة ميزة التفسير في القرأن الكريم ",
-  "minimumRequiredVersion": "1.2.0",
+  "version": "1.2.0",
+  "releaseNotes": "تحديث التطبيق إلى الإصدار 1.2.0\n- تحسينات في الأداء\n- إصلاح بعض الأخطاء",
+  "minimumRequiredVersion": "1.0.0",
   "releaseDate": "2025-08-07",
   "features": [
-    "إصلاح مشاكل الأداء",
-    "تحسين تجربة المستخدم",
-    "إضافة ميزات جديدة"
+    "تحسينات في الأداء",
+    "إصلاح بعض الأخطاء"
   ],
   "downloadUrl": "https://github.com/mopota/HisnAlMuslimApp/releases/download/version/hisn.apk"
 }
