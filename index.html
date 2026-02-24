@@ -493,7 +493,14 @@
             position: relative;
             overflow: hidden;
         }
-
+.screenshot-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+background: black;
+    object-fit: cover;
+    border-radius: 20px;
+}
         .screenshot-frame::after {
             content: attr(data-screen);
             position: absolute;
@@ -795,26 +802,7 @@
             <p>تصفح الواجهات الجديدة والتصميم المُحسّن</p>
         </div>
         
-        <div class="screenshots-slider reveal">
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="الشاشة الرئيسية">🏠</div>
-            </div>
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="الأذكار">📿</div>
-            </div>
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="المسبحة">🤲</div>
-            </div>
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="دعوات المسلمين">💬</div>
-            </div>
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="القرآن الكريم">📖</div>
-            </div>
-            <div class="screenshot-card">
-                <div class="screenshot-frame" data-screen="اتجاه القبلة">🧭</div>
-            </div>
-        </div>
+       
     </section>
 
     <!-- Footer -->
